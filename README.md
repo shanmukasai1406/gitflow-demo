@@ -1,4 +1,2 @@
-# \# Calculator Application
-
-# Develop branch version
-
+# Calculator Application
+Feature and develop branches merged
